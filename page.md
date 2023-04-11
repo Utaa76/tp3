@@ -2,11 +2,13 @@ Page alternative
 
 ### Petit tableau pour fêter ça
 
-| **Membre** | **Rôle**                  |
-|------------|---------------------------|
-| Célia      | Responsable accueil       |
-| Maximilien | Chef comptable            |
-| Yanis      | Responsable communication |
+<div class="Tableau">
+	| **Membre** | **Rôle**                  |
+	|------------|---------------------------|
+	| Célia      | Responsable accueil       |
+	| Maximilien | Chef comptable            |
+	| Yanis      | Responsable communication |
+</div>
 
 ***
 
@@ -22,7 +24,7 @@ Page alternative
 		border: 1px solid black; padding: 25px;
 		background-color : #44BCFD;
 		color: black;
-		border-radius : 2px;
+		border-radius : 30px;
 	}
 
 	body {
