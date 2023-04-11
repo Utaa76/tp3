@@ -8,4 +8,4 @@ Page alternative
 | Maximilien | Chef comptable            |
 | Yanis      | Responsable communication |
 
-![Rick Roll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<video src="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Rick roll</video>
