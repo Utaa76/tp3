@@ -2,7 +2,9 @@ Page alternative
 
 ### Petit tableau pour fêter ça
 
-<div class="Tableau">
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 30%">
 	| **Membre** | **Rôle**                  |
 	|------------|---------------------------|
 	| Célia      | Responsable accueil       |
