@@ -8,7 +8,7 @@ Page alternative
 | Maximilien | Chef comptable            |
 | Yanis      | Responsable communication |
 
-<video src="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Rick roll</video>
+<embed src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" autostart="false" height="30" width="144" />
 
 <span class="encadré">Nous avons créé un encadré</span>
 
