@@ -13,5 +13,5 @@ Page alternative
 <span class="encadré">Nous avons créé un encadré</span>
 
 <style>
-	.encadré{ border: 1px solid black; padding: 5px; } 
+	.encadré{ border: 1px solid black; padding: 5px background-color:cyan; }
 </style>
