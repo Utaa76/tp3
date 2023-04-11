@@ -2,7 +2,7 @@
 
 ### Petit tableau pour fêter ça
 
-<span class="tableau">
+<div class="tableau">
 	<style type="text/css">
 		text-align: center;
 		.tg  {border-collapse:collapse;border-spacing:0;}
