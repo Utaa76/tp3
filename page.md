@@ -8,4 +8,4 @@ Page alternative
 | Maximilien | Chef comptable            |
 | Yanis      | Responsable communication |
 
-[](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
