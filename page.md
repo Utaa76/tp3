@@ -18,6 +18,7 @@ Page alternative
 
 <style>
 	.encadré{ border: 1px solid black; padding: 25px;
-	          background-color : #33AEF0;
-			  text-align: center; }
+	          background-color : #44BCFD;
+			  text-align: center;
+			  color: black }
 </style>
