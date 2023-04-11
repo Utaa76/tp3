@@ -22,6 +22,7 @@ Page alternative
 		border: 1px solid black; padding: 25px;
 		background-color : #44BCFD;
 		color: black 
+		border-radius : 2px;
 	}
 
 	body {
