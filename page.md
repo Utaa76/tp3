@@ -2,7 +2,6 @@ Page alternative
 
 ### Petit tableau pour fêter ça
 
-<div>
 	<style type="text/css">
 		margin-left:  auto;
 		margin-right: auto;
@@ -36,7 +35,7 @@ Page alternative
 			</tr>
 		</tbody>
 	</table>
-</div>
+
 
 ***
 
