@@ -13,6 +13,7 @@
 		font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 		.tg .tg-2egc{background-color:#efefef;border-color:#ffffff;text-align:left;vertical-align:top}
 		.tg .tg-ag0s{background-color:#656565;border-color:#ffffff;color:#ffffff;text-align:center;vertical-align:top}
+		body{text-align: center;}
 	</style>
 	<table class="tg">
 			<thead>
