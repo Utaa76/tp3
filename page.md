@@ -14,6 +14,7 @@ Page alternative
 
 ***
 
+<br><br>
 <span class="encadré">Nous avons créé un encadré</span>
 
 <style>
